@@ -1,0 +1,17 @@
+@import url(../nav/nav.css);
+@import url(../cart/cart.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+$popins-font: "Poppins", sans-serif;
+$inter-font:"Inter", sans-serif;
+
+body{
+    width: 100%;
+    scroll-behavior: smooth;
+}
